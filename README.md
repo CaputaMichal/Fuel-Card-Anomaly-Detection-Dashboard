@@ -1,7 +1,7 @@
 # Fuel Card Sales & Anomaly Detection Dashboard
 
 ## 📊 Project Overview
-This project focuses on analyzing fuel transaction data across 11 European markets. The goal was to monitor sales performance and identify potential fraud using advanced data transformation and visualization techniques. 
+This project focuses on analyzing fuel transaction data across 25 European markets. The goal was to monitor sales performance and identify potential fraud using advanced data transformation and visualization techniques. 
 
 The dashboard provides executive-level insights into revenue, volume, and customer activity, with a specialized focus on security through an automated anomaly detection system.
 
